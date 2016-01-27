@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[R1 Locost]]></title>
         <description><![CDATA[R1 Locost]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/r1-locost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:39:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 18:29:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/r1-locost/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e7ad7b5-4fa6-49f1-8663-f7b951d82ecf.jpg">]]></description>
+            <link>https://thegrid.ai/r1-locost/0fe82241-f551-40b3-a550-34dfddea7adf/index.html</link>
+            <guid isPermaLink="false">0fe82241-f551-40b3-a550-34dfddea7adf</guid>
+            <pubDate>Wed, 27 Jan 2016 18:29:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02bc2b00-6fc1-4680-904a-e97240d1b7e8.jpg">]]></description>
-            <link>undefined3bdb0eed-1b9b-482a-9d32-463c5c27fd5d/index.html</link>
+            <link>https://thegrid.ai/r1-locost/3bdb0eed-1b9b-482a-9d32-463c5c27fd5d/index.html</link>
             <guid isPermaLink="false">3bdb0eed-1b9b-482a-9d32-463c5c27fd5d</guid>
             <pubDate>Wed, 27 Jan 2016 17:39:39 GMT</pubDate>
         </item>
