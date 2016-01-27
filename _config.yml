@@ -1,19 +1,4 @@
-name: R1 Locost
-favicon: null
-layout_spectrum: 0.7095528496429324
-typography_spectrum: 0.7114852757658809
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -23,6 +8,11 @@ color:
     - '#160600'
   brandStrength: 0.9176098643802106
   lightness: 0.5495649673976004
-  saturation: 0.37572196451947093
   rhythmicContrast: 0.6329510258510709
+  saturation: 0.37572196451947093
+cta: {}
+layout_spectrum: 0.995888
+name: R1 Locost
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7114852757658809
